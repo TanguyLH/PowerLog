@@ -1,0 +1,2 @@
+# PowerLog
+Powershell Logging library
